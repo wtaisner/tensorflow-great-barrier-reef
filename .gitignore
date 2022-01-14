@@ -21,6 +21,11 @@ ENV/
 env.bak/
 venv.bak/
 
-data/
-data/*
+data/train_images/
+data/test.csv
+data/train.csv
+data/example_sample_submission.csv
+data/example_test.npy
+data/greatbarrierreef
 
+/data
