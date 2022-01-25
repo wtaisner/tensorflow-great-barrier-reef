@@ -29,7 +29,7 @@ data/example_test.npy
 data/greatbarrierreef
 
 /data
-
+data_yolo
 # models
 *.pt
 # images

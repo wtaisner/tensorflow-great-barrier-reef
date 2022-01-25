@@ -3,3 +3,4 @@ greatbarrierreef
 venv
 wandb
 *.ipynb
+data_yolo
