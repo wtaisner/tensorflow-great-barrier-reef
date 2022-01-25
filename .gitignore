@@ -29,3 +29,9 @@ data/example_test.npy
 data/greatbarrierreef
 
 /data
+
+# models
+*.pt
+# images
+*.jpg
+*.png
