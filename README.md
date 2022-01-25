@@ -49,7 +49,7 @@ where PATH is full path to directory with `predictor.py`, so in our case it woul
 
 assuming that we run this command in `tensorflow-great-barrier-reef` directory.
 
-`-it` stand for running docker in an interactive mode, while `-v` stands for adding volume with aforementioned `inference` directory. That way, we are able to provie models and images directly to the docker container in order to perform inference.
+`-it` stand for running docker in an interactive mode, while `-v` stands for adding volume with aforementioned `inference` directory. That way, we are able to provide models and images directly to the docker container in order to perform inference.
 
 In order to obtain image with predicted bounding boxes drawn, it is enough to run:
 
